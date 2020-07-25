@@ -14,7 +14,7 @@ role: Undergraduate student (Junior)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Califorania, Berkeley
+- name: University of California, Berkeley
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
