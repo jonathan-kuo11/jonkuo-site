@@ -66,5 +66,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Jonathan Kuo is an undergraduate senior at the University of California, Berkeley.
+Jonathan Kuo is an undergraduate senior at the University of California, Berkeley. He writes about the history of medicine and public health, with a particular focus on the history of controversy. Currently, Jonathan is working on his honors thesis in rhetoric, which involves tracing the historical origins and evolutions of the personal belief exemption to vaccination mandates.
