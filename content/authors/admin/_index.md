@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate student (Junior)
+role: Undergraduate student
 
 # Organizations/Affiliations
 organizations:
